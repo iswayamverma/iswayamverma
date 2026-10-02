@@ -86,6 +86,10 @@ I'm **Swayam Verma**, a final-year B.Tech Computer Science & Engineering student
 
 ---
 
+## ✍️ Writing
+
+- [How I Rebuilt My AI Doctor App with Spring AI and MCP (and Stopped Stuffing Prompts)](https://dev.to/iswayamverma/how-i-rebuilt-my-ai-doctor-app-with-spring-ai-and-mcp-and-stopped-stuffing-prompts-40b1)
+
 ## 🤝 Let's Connect
 
 I'm always happy to talk about backend development, AI applications, or opportunities.
